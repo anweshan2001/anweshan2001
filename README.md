@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Anweshan Satapathy
+- 👋 Hi, I’m Anweshan Satapathy. I am a Software Engineer with experience in building full stack products end to end from scratch.
 - 👀 I’m interested in ...anime,video editing,coding
-- Currently Learning Git
 
 <!---
 anweshan2001/anweshan2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
